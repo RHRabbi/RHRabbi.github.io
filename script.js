@@ -15,6 +15,8 @@ window.addEventListener("load", function () {
 
 window.ityped.init(document.querySelector(".iTyped"), {
   strings: [
+    "Student"
+    "Wikipedian"
     "3D Design Expert",
     "Font Developer",
     "Website Developer",
@@ -22,7 +24,7 @@ window.ityped.init(document.querySelector(".iTyped"), {
   ],
   loop: true,
   typeSpeed: 100,
-  backSpeed: 100,
+  backSpeed: 150,
   backDelay: 1000,
 });
 
