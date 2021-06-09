@@ -24,7 +24,7 @@ window.ityped.init(document.querySelector(".iTyped"), {
   ],
   loop: true,
   typeSpeed: 100,
-  backSpeed: 150,
+  backSpeed: 100,
   backDelay: 1000,
 });
 
