@@ -15,8 +15,8 @@ window.addEventListener("load", function () {
 
 window.ityped.init(document.querySelector(".iTyped"), {
   strings: [
-    "Student"
-    "Wikipedian"
+    "Student",
+    "Wikipedian",
     "3D Design Expert",
     "Font Developer",
     "Website Developer",
